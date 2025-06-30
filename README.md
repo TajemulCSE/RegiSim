@@ -19,7 +19,10 @@ RegiSim is a Flutter-based mobile application that visually simulates fundamenta
 
 ## 📱 Screenshots / Demo
 
-[https://user-images.githubusercontent.com/yourusername/demo_video.mp4 *(Attach your video or screenshots here)*](https://drive.google.com/file/d/1IGL2yFDAP1jeSUh2H_gOH8gIi038qG1O/view?usp=sharing)
+
+https://github.com/user-attachments/assets/fbde0204-0f43-4774-83bd-df2859d151f9
+
+
 
 ## 🧱 Development Stages
 
